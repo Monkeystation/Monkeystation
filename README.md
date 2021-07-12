@@ -1,5 +1,3 @@
-Job Wind
-
 FREELANCE FULL STACK DEVELOPER
 Hi, I'm a web developer and innovative mobile application creator with over 15 years of experience.
 If you need help to turn your ideas into reality, I am your man. I am what you would call a "one-stop shop", having considerable experience in the technical realisation and a good understanding of the creative side of the process.
